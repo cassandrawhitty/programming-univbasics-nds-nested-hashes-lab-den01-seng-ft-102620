@@ -8,8 +8,8 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   favorite_books = [
-    {:name => "East of Eden", :author => "John Stienbeck"},
-    {:name => "Born a Crime", :author => "Trevor Noah"}
+    {:name => "Don Gately", :occupation => "Live-in Staff"},
+    {:name => "Joelle van Dyne", :occupation => "Radio Personality"}
     ]
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
